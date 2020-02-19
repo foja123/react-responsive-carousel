@@ -42,10 +42,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/leandrowd/react-responsive-carousel.git"
+        "url": "https://github.com/foja123/react-responsive-carousel.git"
     },
     "bugs": {
-        "url": "https://github.com/leandrowd/react-responsive-carousel/issues"
+        "url": "https://github.com/foja123/react-responsive-carousel/issues"
     },
     "homepage": "http://leandrowd.github.io/react-responsive-carousel/",
     "devDependencies": {
